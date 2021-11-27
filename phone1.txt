@@ -1,0 +1,5 @@
+consider this as a Phone
+Features:
+TouchScreen
+Gorilla glass
+
