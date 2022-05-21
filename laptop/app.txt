@@ -1,0 +1,6 @@
+this is application section of the Laptop
+
+app1
+app2
+app3
+app4
